@@ -1,14 +1,5 @@
 # Runlogger - a simple command line run logger written in Python
 
-Stores entries as json lines. 
-
-### Format:
-```
-{"date": "June 8, 2020", "distance": "7.3", "time": "00:46:29"}
-```
-
-### Options
-
 Supports:
 * adding new entries (date, distance, time)
 * automatically calculates the pace (minutes/km)
@@ -17,6 +8,15 @@ Supports:
 * viewing the fastest entry
 * viewing the longest entry
 
+
+### Format
+
+Stores entries as json lines. 
+```
+{"date": "June 8, 2020", "distance": "7.3", "time": "00:46:29"}
+```
+
+### Options
 
 ```
 --add_entry : Add new entry interactively from the command line
