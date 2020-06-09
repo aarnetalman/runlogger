@@ -4,9 +4,9 @@ Supports:
 * adding new entries (date, distance, time)
 * automatically calculates the pace (minutes/km)
 * viewing all the entries
-* viewing the latest entry
-* viewing the fastest entry
-* viewing the longest entry
+* viewing the latest run
+* viewing the fastest run
+* viewing the longest run
 
 
 ### Format
