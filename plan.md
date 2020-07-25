@@ -5,20 +5,20 @@
 ### Monday
 * Easy Run 4 miles
 
-## Tuesday
+### Tuesday
 * Easy Run 4 Miles
 
-##  Wednesday
+###  Wednesday
 * Circuit Training
 
-## Thursday 
+### Thursday 
 * Easy Run 4 Miles
 
-## Friday 
+### Friday 
 * Rest
 
-## Saturday
+### Saturday
 * Easy Run 4 Miles
 
-## Sunday
+### Sunday
 * Long Run 8-10 Miles
